@@ -23,6 +23,8 @@ function convertTemperature(celsius) {
 }
 console.log(convertTemperature(59))
 
+// TASK 3 SOLUTION
+
 function convertDollarToNaira(dollar) {
     return dollar * 410.83
 }
